@@ -51,9 +51,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://mustafadevops.hashnode.dev" target="_blank">
-<img src=![download](https://user-images.githubusercontent.com/94189602/211991904-a8c62e64-d58c-4841-a8f5-c07b9e1d421d.png)
-
- alt=hashnode style="margin-bottom: 5px;" />
+<img src=![download](https://user-images.githubusercontent.com/94189602/211991904-a8c62e64-d58c-4841-a8f5-c07b9e1d421d.png) alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/mustafa-madiba-0869b2236" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
