@@ -51,7 +51,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://hashnode.com/mustafaDevops" target="_blank">
-<img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1592751328987%2FVzrtgcQNF.jpeg%3Fauto%3Dcompress&imgrefurl=https%3A%2F%2Fhashnode.com%2Fmedia&tbnid=axeZOS6Hauu3QM&vet=12ahUKEwj_65-u3sD8AhXCnCcCHSGHAtUQMygKegUIARDMAQ..i&docid=IGUxR-EpWESpTM&w=2751&h=472&q=hashnode%20image&ved=2ahUKEwj_65-u3sD8AhXCnCcCHSGHAtUQMygKegUIARDMAQ alt=devto style="margin-bottom: 5px;" />
+<img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1611902473383%2FCDyAuTy75.png%3Fauto%3Dcompress&imgrefurl=https%3A%2F%2Fhashnode.com%2Fmedia&tbnid=6Ffdvj_Qc2p4UM&vet=12ahUKEwj_65-u3sD8AhXCnCcCHSGHAtUQMygLegUIARDOAQ..i&docid=IGUxR-EpWESpTM&w=674&h=674&q=hashnode%20image&ved=2ahUKEwj_65-u3sD8AhXCnCcCHSGHAtUQMygLegUIARDOAQ alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/mustafa-madiba-0869b2236" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
