@@ -71,7 +71,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-What is devops. 
+[What is devops](https://mustafadevops.hashnode.dev/what-is-devops). 
 
 Anyway you can find the link to my blog at the top hashnode 
 <!-- BLOG-POST-LIST:END -->  
