@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mustafa, a full-time full-stack freelance devops engineer 👨‍💻 working remotely  🚀</div>  
   
 
-- 🔭 I’m currently working on [CI/CD](https://github.com/mustafaDevop/CI/CD)  
+- 🔭 I’m currently working on [CI/CD](https://github.com/mustafaDevop/CI-CD)  
   
 
 - 🌱 I’m currently learning CI/CD and Kubernetes  
