@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [CI/CD](https://github.com/mustafaDevop/CI-CD)
 
-- 🌱 I’m currently learning **kubernetics**
+- 🌱 I’m currently learning **GOLANG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mustafaDevop](https://github.com/mustafaDevop)
 
