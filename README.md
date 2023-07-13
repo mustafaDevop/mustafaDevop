@@ -9,9 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/dhemadiba2" target="blank"><img src="https://img.shields.io/twitter/follow/dhemadiba2?logo=twitter&style=for-the-badge" alt="dhemadiba2" /></a> </p>
 
-- 🔭 I’m currently working on [CI/CD](https://github.com/mustafaDevop/CI-CD)
-
-- 🌱 I’m currently learning **GOLANG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mustafaDevop](https://github.com/mustafaDevop)
 
