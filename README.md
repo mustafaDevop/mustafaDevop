@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **CI/CD pipeline**
 
-- 📫 How to reach me **mustafamadiba2@gmail.com**
+- 📫 How to reach me **mustafadevop@gmail.com**
 
 - ⚡ Fun fact **I chew everything I eat, except from water**
 
