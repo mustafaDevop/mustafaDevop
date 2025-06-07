@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a self-taught Full Stack Developer passionate about building secure, scalable, and real-world web and mobile applications. From sleek frontends to robust backends, I turn ideas into production-ready solutions.</div>  
+### <div align="center">I'm **MUSTAFA** a self-taught Full Stack Developer passionate about building secure, scalable, and real-world web and mobile applications. From sleek frontends to robust backends, I turn ideas into production-ready solutions.</div>  
   
 
 
@@ -140,7 +140,6 @@ Tech: React, Tailwind CSS, Firebase
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
