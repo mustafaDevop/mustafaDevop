@@ -122,14 +122,16 @@ An elegant business site for a soup company, built with e-commerce scalability i
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats-mustafadevop.vercel.app/api?username=mustafaDevop&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default&v=10" height="160px" />
-  <img src="https://streak-stats.demolab.com/?user=mustafaDevop&theme=default&hide_border=true&v=10" height="160px" />
-</div>  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center"
+       src="https://github-readme-stats.vercel.app/api?username=mustafaDevop&show_icons=true&count_private=true&hide_border=true" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafaDevop&theme=react-dark&area=true&hide_border=true&custom_title=Mustafa's%20Contributions%20(2023–2025)" width="100%" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaDevop&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 
 
