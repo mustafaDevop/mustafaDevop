@@ -1,168 +1,137 @@
 <div align="center">
-<img src="https://pixabay.com/gifs/greeting-welcome-rotating-pink-1279/" align="center" style="width: 100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN5ZXF1Zm5zcGNsMzEydDk0NjMybzduN2R3N3FhaGZyMmhzdjh2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="100%" />
 </div>  
-  
 
-### <div align="center">I'm **MUSTAFA** a self-taught Full Stack Developer passionate about building secure, scalable, and real-world web and mobile applications. From sleek frontends to robust backends, I turn ideas into production-ready solutions.</div>  
-  
+<h2 align="center">👋 Hi, I'm <b>MUSTAFA</b></h2>
+<h3 align="center">A Self-Taught <b>Full Stack Developer</b> Passionate About Building Secure, Scalable, and Real-World Web & Mobile Applications</h3>
 
+<p align="center">
+I turn ideas into production-ready solutions — from sleek frontends to powerful backends, built for performance and reliability.
+</p>
 
+---
 
-### 🚀 Featured Projects  
-# 🎬 Habibi – Streaming Platform
-A full-featured streaming app offering movies and live football, built with premium user experience in mind.    
-✅ Multi-plan subscriptions (movies-only, football-only, combined).  
-✅ Offline downloads & ad-supported free plans.   
-✅ Stripe & Cryptomus integration
-Tech: React Native, Node.js, MongoDB, AWS.   
+## 🚀 Featured Projects  
+
+### 🎬 **Habibi – Streaming Platform**
+A premium streaming platform for movies and live football.  
+✅ Multi-plan subscriptions (Movies-only, Football-only, Combined).  
+✅ Offline downloads & ad-supported free plans.  
+✅ Integrated payments with Stripe & Cryptomus.  
+✅ Deployed on AWS with secure Node.js backend.  
+**Tech:** React Native, Node.js, MongoDB, AWS.  
 🔗 Private project. Demo available on request.  
-  
 
-# 💰 Monetiza – Content Subscription Platform (Demo Version)
+---
 
-Secure platform that allows creators to monetize premium content.  
-✅ User authentication with multi-factor login.     
-✅ Stripe-based subscription billing.    
-✅ Live streaming via WebRTC.  
-✅ DRM protection for paid content.  
-Tech: Vue.js, Node.js, MongoDB, Stripe, WebRTC.   
-🔗 Demo available on request — this version is a clean, private-friendly rebuild.
-  
-  
+### 💸 **Monetiza – Content Monetization Platform**
+A full-featured **OnlyFans-style platform** allowing creators to earn from subscriptions, donations, and exclusive content.  
+✅ Secure creator onboarding & 2FA login.  
+✅ Integrated wallet system with Stripe, PayPal, & Coinremitter.  
+✅ Built-in DRM protection, CDN, and watermarking.  
+✅ Supports live streaming, video calls (Agora), and analytics dashboards.  
+**Tech:** Vue.js, Node.js, MongoDB, WebRTC, Stripe, AWS.  
+🔗 Demo available on request.  
 
-# 📝 Blogging Platform
-A modern, clean blogging app with user login, post creation, and commenting.  
-Tech: React, Express.js, MongoDB, JWT  
-  
+---
 
-# 🍲 Soup Website (In Progress)
-Business site for a soup company with e-commerce potential.
-Tech: React, Tailwind CSS, Firebase  
-  
+### 🍔 **Maje – Food & Marketplace Platform**
+A powerful, Chowdeck-inspired app for food delivery and marketplace operations.  
+✅ Real-time location tracking for users, riders & stores.  
+✅ Advanced vendor dashboard with menu & order management.  
+✅ Wallet system, promo codes, and multiple payment options.  
+✅ Built with microservices architecture for scalability.  
+**Tech:** React Native, Express.js, MongoDB, Socket.io, Mapbox.  
+🔗 Currently under testing phase. iOS testers via TestFlight — DM for access.  
 
-<br/>  
+---
 
+### 📝 **Modern Blogging Platform**
+A minimalistic, responsive blogging app with user authentication, commenting, and trending post detection.  
+**Tech:** React, Express.js, MongoDB, JWT.  
 
-## My Skill Set  
+---
+
+### 🍲 **Soup Company Website (In Progress)**
+An elegant business site for a soup company, built with e-commerce scalability in mind.  
+**Tech:** React, Tailwind CSS, Firebase.  
+
+---
+
+## 🧠 My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### 💻 Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+### ⚙️ Backend  
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### ☁️ DevOps & Tools  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+---
 
+## 🌐 Connect With Me  
 
-## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/mustafa madiba" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/mustafaDevop" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://linkedin.com/in/mustafa-madiba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mustafaDevop" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.buymeacoffee.com/mustafadevop" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafaDevop&show_icons=true&count_private=true&hide_border=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaDevop&hide_border=true" height="160px" />
 </div>  
-  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mustafaDevop&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mustafaDevop&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/mustafadevop" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+  <img src="https://komarev.com/ghpvc/?username=mustafaDevop&&style=flat-square" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafaDevop/mustafaDevop/output/github-snake-dark.svg" />
