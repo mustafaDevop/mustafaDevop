@@ -123,9 +123,14 @@ An elegant business site for a soup company, built with e-commerce scalability i
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafaDevop&show_icons=true&count_private=true&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafaDevop&show_icons=true&count_private=true&hide_border=true&v=2" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaDevop&hide_border=true" height="160px" />
 </div>  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafaDevop&bg_color=ffffff&color=000000&line=00bfff&point=1f78b4&area=true&hide_border=true" width="100%" />
+</div>
+
 
 ---
 
