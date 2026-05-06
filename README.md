@@ -208,8 +208,8 @@ const mustafa = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mustafamadiba2@gmail.com-00d4aa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafamadiba2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f0a030?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafadevop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f0a030?style=for-the-badge&logo=vercel&logoColor=white)](https://mustafadevop.space)
 [![GitHub](https://img.shields.io/badge/GitHub-mustafaDevop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafaDevop)
 
 </div>
