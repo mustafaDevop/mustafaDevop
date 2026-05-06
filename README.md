@@ -1,139 +1,102 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN5ZXF1Zm5zcGNsMzEydDk0NjMybzduN2R3N3FhaGZyMmhzdjh2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="100%" />
-</div>  
-
-<h2 align="center">👋 Hi, I'm <b>MUSTAFA</b></h2>
-<h3 align="center">A Self-Taught <b>Full Stack Developer</b> Passionate About Building Secure, Scalable, and Real-World Web & Mobile Applications</h3>
-
-<p align="center">
-I turn ideas into production-ready solutions — from sleek frontends to powerful backends, built for performance and reliability.
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🎬 **Habibi – Streaming Platform**
-A premium streaming platform for movies and live football.  
-✅ Multi-plan subscriptions (Movies-only, Football-only, Combined).  
-✅ Offline downloads & ad-supported free plans.  
-✅ Integrated payments with Stripe & Cryptomus.  
-✅ Deployed on AWS with secure Node.js backend.  
-**Tech:** React Native, Node.js, MongoDB, AWS.  
-🔗 Private project. Demo available on request.  
-
----
-
-### 💸 **Monetiza – Content Monetization Platform**
-A full-featured **OnlyFans-style platform** allowing creators to earn from subscriptions, donations, and exclusive content.  
-✅ Secure creator onboarding & 2FA login.  
-✅ Integrated wallet system with Stripe, PayPal, & Coinremitter.  
-✅ Built-in DRM protection, CDN, and watermarking.  
-✅ Supports live streaming, video calls (Agora), and analytics dashboards.  
-**Tech:** Vue.js, Node.js, MongoDB, WebRTC, Stripe, AWS.  
-🔗 Demo available on request.  
-
----
-
-### 🍔 **Maje – Food & Marketplace Platform**
-A powerful, Chowdeck-inspired app for food delivery and marketplace operations.  
-✅ Real-time location tracking for users, riders & stores.  
-✅ Advanced vendor dashboard with menu & order management.  
-✅ Wallet system, promo codes, and multiple payment options.  
-✅ Built with microservices architecture for scalability.  
-**Tech:** React Native, Express.js, MongoDB, Socket.io, Mapbox.  
-🔗 Currently under testing phase. iOS testers via TestFlight — DM for access.  
-
----
-
-### 📝 **Modern Blogging Platform**
-A minimalistic, responsive blogging app with user authentication, commenting, and trending post detection.  
-**Tech:** React, Express.js, MongoDB, JWT.  
-
----
-
-### 🍲 **Soup Company Website (In Progress)**
-An elegant business site for a soup company, built with e-commerce scalability in mind.  
-**Tech:** React, Tailwind CSS, Firebase.  
-
----
-
-## 🧠 My Skill Set  
-
-<table><tr><td valign="top" width="33%">
-
-### 💻 Frontend  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### ⚙️ Backend  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### ☁️ DevOps & Tools  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" />  
-</div>
-
-</td></tr></table>
-
----
-
-## 🌐 Connect With Me  
-
-<div align="center">
-  <a href="https://linkedin.com/in/mustafa-madiba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mustafaDevop" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.buymeacoffee.com/mustafadevop" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" />
-  </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+### Mustafa Madiba
+📍 Benin, Nigeria | 📞 +234 907 403 4855 | 📧 mustafamadiba2@gmail.com
+🌐 GitHub | LinkedIn | PORTFOLIO
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=mustafaDevop&show_icons=true&count_private=true&hide_border=true" />
-</a>
+**Senior Full Stack Engineer | 5+ Years Experience**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaDevop&layout=compact&langs_count=8&card_width=320" />
-</a>
+Results-driven engineer specializing in high-performance, scalable, and secure systems. Experienced in delivering production-grade applications for web and mobile with real-time features, secure payments, streaming, and high concurrency. Combines full-stack expertise with DevOps knowledge to design systems that are reliable, maintainable, and production-ready.
 
+---
 
+## Core Competencies
 
+**Backend & Systems:** Node.js, Express.js, MongoDB, Firebase, REST APIs, WebSockets, JWT, indexing & search optimization
+
+**Frontend & Mobile:** React.js, React Native, Vue.js, Tailwind CSS
+
+**Security & Scalability:** OAuth, 2FA, data encryption, role-based access control, secure payment integrations, DRM
+
+**Real-Time Systems:** Socket.IO, WebRTC, live streaming, real-time notifications & analytics
+
+**DevOps & Infrastructure:** AWS (EC2, S3, CloudFront, EFS), Docker, PM2, CI/CD pipelines, monitoring, auto-scaling, performance tuning
+
+**Specialties:** System architecture, high-traffic applications, caching strategies, secure payment systems, indexing & search optimization
+
+---
+
+## Professional Experience
+
+**Internship DevOps Engineer — Safecho (Remote, Switzerland) | 6 months**
+- Managed production cloud infrastructure for high-traffic applications with auto-scaling, monitoring, and low-latency performance
+- Built CI/CD pipelines using Jenkins for automated builds, testing, and deployments across multiple environments
+- Hardened servers with role-based access, encrypted storage, and secure deployment practices
+- Optimized database performance, caching, and load balancing to support high-concurrency applications
+
+**Tech Stack:** AWS, Docker, Jenkins, Linux, PM2, Git, Nginx
+
+**Impact:** Enabled reliable, automated deployments with minimal downtime for global clients.
+
+---
+
+**Freelance Senior Full Stack Engineer — Remote | 2020–Present**
+
+Delivered end-to-end production-grade applications for global clients with focus on UI, backend, real-time features, and secure deployments.
+
+**Maje – Multi-Vendor Platform (Food & Retail)**
+- Real-time order management system for vendors, customers, and riders with 200+ concurrent users
+- Designed and implemented customer, vendor/admin, and rider dashboards
+- Built dispatch & delivery management system with driver assignment, order tracking, and notifications
+- Integrated Paystack for PCI-compliant secure payments
+- Implemented role-based access, audit logging, and encrypted storage
+- Optimized database queries with indexing and caching for fast dashboards and analytics
+- Deployed on AWS with auto-scaling, load balancing, and monitoring
+
+**Impact:** Processed ~150 secure transactions/day with seamless real-time dispatch.
+
+**Monetiza – Creator Platform (Subscriptions & Live Interaction)**
+- Scalable subscription platform with multi-tier payments, internal wallets, and donations
+- Real-time video/audio streaming with WebRTC & Agora for 50+ active creators
+- Secure payments via Stripe, PayPal, and crypto gateways
+- Implemented 2FA, DRM-protected content, encrypted storage, and role-based access
+- Engineered data indexing, caching, and analytics pipelines for fast search and reporting
+
+**Impact:** Processed $20K+ in secure transactions with zero downtime during first 3 months.
+
+**OtaFlick – Streaming & Live Content Platform (Web & Mobile)**
+- Multi-plan subscription and ad monetization platform for web and mobile
+- Implemented secure DRM streaming, subscription management pipelines, and real-time analytics
+- Integrated Stripe for PCI-compliant payments
+- Deployed on AWS EC2 with PM2, auto-scaling, caching, and optimized video delivery
+
+**Impact:** Delivered seamless streaming experience with high concurrency and secure monetization.
+
+---
+
+## Portfolio Projects
+
+**Blogging Engine** – Full-Feature Publishing Platform: Secure, high-performance content system with dashboards, trending feeds, markdown editor, and commenting.
+
+**Soup Website (In Progress)** – Scalable corporate web app with modular backend and Firebase integration; secure authentication and production-ready performance.
+
+---
+
+## Education
+
+**University of Benin** – B.Sc Computer Science (Software Engineering, started Oct 2025)
+
+**Self-Taught Developer** – Built and deployed multiple production systems independently, specializing in secure, scalable, high-performance applications.
+
+---
+
+## Languages
+
+English (Fluent)
 
 ---
 
