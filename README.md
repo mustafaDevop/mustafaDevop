@@ -100,7 +100,8 @@ const mustafa = {
 
 ---
 
-## 💼 &nbsp;Featured Projects
+## 💼 &nbsp;Professional Experience
+
 
 <table>
 <tr>
